@@ -2,7 +2,7 @@
 layout: post
 title: HarperCollins KissCon
 description: Microsite Redesign
-img: /img/icons/bokeh.jpg
+img: ../img/icons/bokeh.jpg
 ---
 
 # overview
@@ -17,9 +17,9 @@ Marketing has a lot of pieces, and one that I worked with was building promotion
 The [earlier KissCon site](https://info.harpercollins.com/avonkisscon/) is dense with text and is visually inconsistent in color and centering.
 
 <div class="img_row_2">
-	<img class="col one" src="{{ site.baseurl }}/img/kisscon/kisscon-old1.jpg" alt="" />
-	<img class="col one" src="{{ site.baseurl }}/img/kisscon/kisscon-old2.jpg" object-fit = "fill" alt="" />
-	<img class="col one" src="{{ site.baseurl }}/img/kisscon/kisscon-old3.jpg" alt="" /> 
+	<img class="col one" src="../../img/kisscon/kisscon-old1.jpg" alt="" />
+	<img class="col one" src="../../img/kisscon/kisscon-old2.jpg" object-fit = "fill" alt="" />
+	<img class="col one" src="../../img/kisscon/kisscon-old3.jpg" alt="" /> 
 </div>
 <div class="col three caption">
 	On the left, a description of the event and ticket costs. Middle, a description of the event and its corporate sponsors with an author carousel. Right, a list of featured authors with an author carousel.
