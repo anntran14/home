@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<div class="post">
+<link href="https://fonts.googleapis.com/css?family=Lato|PT+Sans;" rel="stylesheet">
+  <header class="post-header">
+    <h1 style="font-family:courier new;" class="post-title">{{ page.title }} </h1>
+    <h2 style="font-family:courier new; font-size:28px;" class="post-title">{{ page.description }} </h1>
+    <p class="post-meta">{{ page.date | date: "%B %-d, %Y — %H:%M" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+  </header>
+
+  <article class="post-content" style="font-family:Lato;">
+    {{ content }}
+  </article>
+
+</div>
