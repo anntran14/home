@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+
+<div class="header-bar">
+  <h1 style="font-family:courier new;color: #FE7850;">*ann tran*</h1>
+  <h2>A Boston-based creative professional.</h2>
+      <hr>
+    <h5>I like to make things expressive and functional.<br/> </h5>
+</div>
+
+<center><div class="img_row_7">
+  <img class="col three" style ="width:120px; height:120px; text-align: center;" src="{{ site.baseurl }}/img/icons/avatar.png" alt="" /> 
+</div></center>
+
+
+<ul class="post-list">
+    {% for post in paginator.posts %}
+      <li>
+        <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+        <p class="post-meta">{{ post.date | date: '%B %-d, %Y — %H:%M' }}</p>
+        <p>{{ post.description }}</p>
+        <br/>
+        <hr/>
+      </li>
+    {% endfor %}
+</ul
