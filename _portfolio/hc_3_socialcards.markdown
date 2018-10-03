@@ -84,9 +84,7 @@ During my time at HarperCollins Publishers, I developed social cards for Instagr
 	Instagram takeover with <a href="https://www.instagram.com/p/Bl3mGqCAIJx/?taken-by=harpercollinsus">Leah Franqui</a>.
 </div>
 
-**monthly social shares**
-
-
+# monthly social shares
 <div class="img_row">
 	<img class="col one-alt" src="../../img/social/cards/bookclub-july.jpg" alt="" />
 	<img class="col one-alt" src="../../img/social/cards/bookclub-august.jpg" alt=""/>
