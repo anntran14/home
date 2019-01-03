@@ -63,9 +63,9 @@ img: ../img/icons/sets.jpg
 
 <b>mascot</b>
 <center><div class="imag_row">
-	<img class="col four" style="height:240px;" src="../../img/hosik/quirky.jpg" alt="" /> 
-	<img class="col four" style="height:240px;" src="../../img/hosik/sleepy.jpg" alt="" />
-	<img class="col four" style="height:240px;" src="../../img/hosik/traditional.jpg" alt="" />
+	<img class="col four" src="../../img/hosik/quirky.jpg" alt="" /> 
+	<img class="col four" src="../../img/hosik/sleepy.jpg" alt="" />
+	<img class="col four" src="../../img/hosik/traditional.jpg" alt="" />
 
 </div></center>
 <div class="col three caption">
