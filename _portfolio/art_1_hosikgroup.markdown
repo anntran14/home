@@ -19,14 +19,14 @@ img: ../img/icons/sets.jpg
 </div>
 
 <center><div class="img_row_5">
-	<img class="col three" style="height:380px;" src="../../img/hosik/neon.JPG" alt="" />
+	<img class="col three" style="height:340px;" src="../../img/hosik/neon.JPG" alt="" />
 </div></center>
 <div class="col three caption">
 	<i>Neon</i>. A cool and stylish option to communicate a fun night out. “Boston” is in a classic serif font that reflects the proper, traditional values of the city. The letters sit closely together to make the logo compact and contrast with the sprawling script font on top. The outlined script font shares the outlined element of “Boston” but contrasts with a loose, thick, playful scrawl. Con: May be visually busy from varying line thicknesses and neon font treatment in the script font. 
 </div>
 
 <center><div class="img_row_5">
-	<img class="col three" style="height:380px;" src="../../img/hosik/lantern.JPG" alt="" />
+	<img class="col three" style="height:340px;" src="../../img/hosik/lantern.JPG" alt="" />
 </div></center>
 <div class="col three caption">
 	<i>Lantern</i>. Graphic image logo interpretation. Communicates the Asian inspiration of the night market. The drawn lantern lines and “Boston” script font compliment the clean, professional circle and “NIGHT MARKET” sans serif text. The red background option and yellow highlight option are included to show the design’s versatility.  With the yellow highlight, it looks only slightly reminiscent of an Asian theme. Would work well as a sticker/badge. Con: Being mostly hand-drawn, the logo may feel less professional. 
