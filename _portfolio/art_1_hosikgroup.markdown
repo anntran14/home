@@ -41,21 +41,21 @@ img: ../img/icons/sets.jpg
 
 <b>logo</b> 
 <center><div class="imag_row">
-	<img class="col three" style="height:320px;" src="../../img/hosik/classic.jpg" alt="" />
+	<img class="col three" src="../../img/hosik/classic.jpg" alt="" />
 </div></center>
 <div class="col three caption">
 	<i>Classic</i>. More professional by choosing a serif font, but still feels cheerful with the patterns inside the word.
 </div>
 
 <center><div class="imag_row">
-	<img class="col three" style="height:320px;" src="../../img/hosik/hip.jpg" alt="" />
+	<img class="col three" src="../../img/hosik/hip.jpg" alt="" />
 </div></center>
 <div class="col three caption">
 	<i>Hip</i>. Stylish and modern typeface with a background that suggests exactly what you sell. 
 </div> 
 
 <center><div class="imag_row">
-	<img class="col three" style="height:320px;" src="../../img/hosik/playful.jpg" alt="" />
+	<img class="col three" src="../../img/hosik/playful.jpg" alt="" />
 </div></center>
 <div class="col three caption">
 	<i>Playful</i>. Legible, cute, and friendly. Simple and to-the-point. 
