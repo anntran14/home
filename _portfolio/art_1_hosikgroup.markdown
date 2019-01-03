@@ -29,10 +29,13 @@ img: ../img/icons/sets.jpg
 	<img class="col three" style="height:360px;" src="../../img/hosik/lantern.JPG" alt="" />
 </div></center>
 <div class="col three caption">
-	<i>Lantern</i>. Graphic image logo interpretation. Communicates the Asian inspiration of the night market. The drawn lantern lines and “Boston” script font compliment the clean, professional circle and “NIGHT MARKET” sans serif text. The red background option and yellow highlight option are included to show the design’s versatility.  With the yellow highlight, it looks only slightly reminiscent of an Asian theme. Would work well as a sticker/badge. Con: Being mostly hand-drawn, the logo may feel less professional. 
+	<i>Lantern</i>. Graphic image logo interpretation. Communicates the Asian inspiration of the night market. The drawn lantern lines and “Boston” script font compliment the clean, professional circle and “NIGHT MARKET” sans serif text. The red background option and yellow highlight option are included to show the design’s versatility.  With the yellow highlight, it looks only slightly reminiscent of an Asian theme. Would work well as a sticker/badge. Con: Being mostly hand-drawn, the logo may feel less professional. <br/> 
+
 </div>
 
 <br/> 
+<br/> 
+
 # potato potáto
 <br/> This start-up will be selling spiralized fried potatoes, a common street food, in the Greater Boston area. Ho-Sik Group was looking for a playful logo and a mascot to match. 
 
