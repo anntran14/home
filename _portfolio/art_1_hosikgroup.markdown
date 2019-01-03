@@ -36,6 +36,7 @@ img: ../img/icons/sets.jpg
 # potato potáto
 This start-up will be selling spiralized fried potatoes, a common street food, in the Greater Boston area. Ho-Sik Group was looking for a playful logo and a mascot to match. 
 
+</br>
 <b>logo</b> 
 <center><div class="imag_row">
 	<img class="col three" style="height:340px;" src="../../img/hosik/classic.jpg" alt="" />
@@ -58,7 +59,7 @@ This start-up will be selling spiralized fried potatoes, a common street food, i
 	<i>Playful</i>. Legible, cute, and friendly. Simple and to-the-point. 
 </div> 
 
-
+</br>
 <b>mascot</b>
 <center><div class="four"><div class="imag_row">
 	<img class="col three" style="height:300px;" src="../../img/hosik/quirky.jpg" alt="" /> 
