@@ -39,21 +39,21 @@ This start-up will be selling spiralized fried potatoes, a common street food, i
 </br>
 <b>logo</b> 
 <center><div class="imag_row">
-	<img class="col three" style="height:340px;" src="../../img/hosik/classic.jpg" alt="" />
+	<img class="col three" style="height:380px;" src="../../img/hosik/classic.jpg" alt="" />
 </div></center>
 <div class="col three caption">
 	<i>Classic</i>. More professional by choosing a serif font, but still feels cheerful with the patterns inside the word.
 </div>
 
 <center><div class="imag_row">
-	<img class="col three" style="height:320px;" src="../../img/hosik/hip.jpg" alt="" />
+	<img class="col three" style="height:340px;" src="../../img/hosik/hip.jpg" alt="" />
 </div></center>
 <div class="col three caption">
 	<i>Hip</i>. Stylish and modern typeface with a background that suggests exactly what you sell. 
 </div> 
 
 <center><div class="imag_row">
-	<img class="col three" style="height:320px;" src="../../img/hosik/playful.jpg" alt="" />
+	<img class="col three" style="height:340px;" src="../../img/hosik/playful.jpg" alt="" />
 </div></center>
 <div class="col three caption">
 	<i>Playful</i>. Legible, cute, and friendly. Simple and to-the-point. 
@@ -61,12 +61,12 @@ This start-up will be selling spiralized fried potatoes, a common street food, i
 
 </br>
 <b>mascot</b>
-<center><div class="four"><div class="imag_row">
-	<img class="col three" style="height:300px;" src="../../img/hosik/quirky.jpg" alt="" /> 
-	<img class="col three" style="height:300px;" src="../../img/hosik/sleepy.jpg" alt="" />
-	<img class="col three" style="height:300px;" src="../../img/hosik/traditional.jpg" alt="" />
+<center><div class="imag_row">
+	<img class="col four" style="height:300px;" src="../../img/hosik/quirky.jpg" alt="" /> 
+	<img class="col four" style="height:300px;" src="../../img/hosik/sleepy.jpg" alt="" />
+	<img class="col four" style="height:300px;" src="../../img/hosik/traditional.jpg" alt="" />
 
-</div></div></center>
+</div></center>
 <div class="col three caption">
 	<i>Quirky</i>. A fresh take on a mascot, this potato is memorable, a little awkward, and simple.
 	<i>Sleepy</i>. Most personified character but with a passive facial expression and a little belly.
