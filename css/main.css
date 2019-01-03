@@ -322,7 +322,7 @@ pre {
 
 .project {
   width: 33.33%;
-  height: 250px;
+  height: auto;
   float: left;
   vertical-align: middle;
   box-sizing: border-box;
