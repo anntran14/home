@@ -32,10 +32,11 @@ img: ../img/icons/sets.jpg
 	<i>Lantern</i>. Graphic image logo interpretation. Communicates the Asian inspiration of the night market. The drawn lantern lines and “Boston” script font compliment the clean, professional circle and “NIGHT MARKET” sans serif text. The red background option and yellow highlight option are included to show the design’s versatility.  With the yellow highlight, it looks only slightly reminiscent of an Asian theme. Would work well as a sticker/badge. Con: Being mostly hand-drawn, the logo may feel less professional. 
 </div>
 
+</br>
 # potato potáto
 This start-up will be selling spiralized fried potatoes, a common street food, in the Greater Boston area. Ho-Sik Group was looking for a playful logo and a mascot to match. 
 
-## logo 
+<b>logo</b> 
 <center><div class="imag_row">
 	<img class="col three" style="height:340px;" src="../../img/hosik/classic.jpg" alt="" />
 </div></center>
@@ -58,24 +59,15 @@ This start-up will be selling spiralized fried potatoes, a common street food, i
 </div> 
 
 
-## mascot design
+<b>mascot</b>
 <center><div class="four"><div class="imag_row">
-	<img class="col three" style="height:300px;" src="../../img/hosik/quirky.jpg" alt="" />
+	<img class="col three" style="height:300px;" src="../../img/hosik/quirky.jpg" alt="" /> 
+	<img class="col three" style="height:300px;" src="../../img/hosik/sleepy.jpg" alt="" />
+	<img class="col three" style="height:300px;" src="../../img/hosik/traditional.jpg" alt="" />
+
 </div></div></center>
 <div class="col three caption">
 	<i>Quirky</i>. A fresh take on a mascot, this potato is memorable, a little awkward, and simple.
-</div> 
-
-<center><div class="imag_row">
-	<img class="col three" style="height:300px;" src="../../img/hosik/sleepy.jpg" alt="" />
-</div></center>
-<div class="col three caption">
 	<i>Sleepy</i>. Most personified character but with a passive facial expression and a little belly.
-</div> 
-
-<center><div class="imag_row">
-	<img class="col three" style="height:300px;" src="../../img/hosik/traditional.jpg" alt="" />
-</div></center>
-<div class="col three caption">
 	<i>Traditional</i>. Cute and silly with a classic potato silhouette and color combination. 
 </div> 
