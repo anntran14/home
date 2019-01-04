@@ -2,7 +2,7 @@
 layout: post
 title: Logo Design
 description: Ho-Sik Group LLC
-img: ../img/icons/sets.jpg
+img: ../img/icons/neon.png
 ---
 
 # overview
