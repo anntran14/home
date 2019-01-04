@@ -13,14 +13,14 @@ img: ../img/icons/Extraction.jpg
 <div class="col three caption">
 <i>Concrete Swamp</i> - 2013 - charcoal, colored pencil. </div>
 
-<div class="img_row_4">
+<div class="imag_row">
 	<img class="col three" src="../../img/studio/Arboreal_Self_Portrait.jpg" alt="" />
 </div>
 <div class="col three caption">
 <i>Extraction</i> - 2014 - acrylic. </div> <i>Arboreal - Self Portrait</i> 2013 - acrylic.</div>
 
-<div class="img_row_4">
-	<img class="col three" style="height:100%;width:auto;" src="../../img/studio/Extraction.jpg" alt="" />
+<div class="imag_row">
+	<img class="col three" src="../../img/studio/Extraction.jpg" alt="" />
 </div>
 <div class="col three caption">
 <i>Extraction</i> - 2014 - acrylic. </div>
