@@ -457,6 +457,9 @@ margin:auto;}
   display: block;
    }
 
+.dynamic-font-size {
+  font-size: 3.5vw; }
+
 .caption {
   height: 100%;
   color: #aaa;
