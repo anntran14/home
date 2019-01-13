@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Computers and Printmaking
+title: Computers and Prints
 description: Coursework
 img: ../img/icons/sets.jpg
 ---
