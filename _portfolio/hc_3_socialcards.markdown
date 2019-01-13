@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HC Social Cards
-description: Book Social Media Promotion
+description: 
 img: ../img/icons/famous-2.jpg
 ---
 
