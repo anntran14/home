@@ -30,7 +30,7 @@ During my time at HarperCollins Publishers, I developed social cards for Instagr
 	<img class="col four" src="../../img/social/cards/popcharts-3.jpg" alt="" />
 </div>
 <div class="imag_row">
-	<img class="col three" style="height: 360px;" src="../../img/social/cards/popcharts-long.jpg" alt="" />
+	<img class="col three" src="../../img/social/cards/popcharts-long.jpg" alt="" />
 </div>
 <div class="col three caption">
 	Instagram takeover with <a href="https://www.instagram.com/p/Bkh8q3lgOr8/?taken-by=harpercollinsus">Katrina McHugh</a>.
@@ -42,7 +42,7 @@ During my time at HarperCollins Publishers, I developed social cards for Instagr
 	<img class="col four" src="../../img/social/cards/dinosaur-3.jpg" alt="" />
 </div>
 <div class="imag_row">
-	<img class="col three" style="height: 360px;" src="../../img/social/cards/dinosaur-long.jpg" alt="" />
+	<img class="col three" src="../../img/social/cards/dinosaur-long.jpg" alt="" />
 </div>
 <div class="col three caption">
 	Instagram takeover with <a href="https://www.instagram.com/p/BkuwQNPAP3y/?taken-by=harpercollinsus">Steve Brusatte</a>.
@@ -54,7 +54,7 @@ During my time at HarperCollins Publishers, I developed social cards for Instagr
 	<img class="col four" src="../../img/social/cards/crave-3.jpg" alt="" />
 </div>
 <div class="imag_row">
-	<img class="col three" style="height: 360px;" src="../../img/social/cards/crave-long.jpg" alt="" />
+	<img class="col three" src="../../img/social/cards/crave-long.jpg" alt="" />
 </div>
 <div class="col three caption">
 		Instagram takeover with <a href="	https://www.instagram.com/p/Bk2dKwKgvCX/?taken-by=harpercollinsus">Martha Collison</a>.
@@ -66,7 +66,7 @@ During my time at HarperCollins Publishers, I developed social cards for Instagr
 	<img class="col four" src="../../img/social/cards/famous-3.jpg" alt="" />
 </div>
 <div class="imag_row">
-	<img class="col three" style="height: 360px;" src="../../img/social/cards/famous-long.jpg" alt="" />
+	<img class="col three" src="../../img/social/cards/famous-long.jpg" alt="" />
 </div>
 <div class="col three caption">
 	Instagram takeover with <a href="https://www.instagram.com/p/BlAoHRdgtqB/?taken-by=harpercollinsus">Caitlin Moran</a>.
@@ -78,7 +78,7 @@ During my time at HarperCollins Publishers, I developed social cards for Instagr
 	<img class="col four" src="../../img/social/cards/america-3.jpg" alt="" />
 </div>
 <div class="imag_row">
-	<img class="col three" style="height: 360px;" src="../../img/social/cards/america-long.jpg" alt="" />
+	<img class="col three" src="../../img/social/cards/america-long.jpg" alt="" />
 </div>
 <div class="col three caption">
 	Instagram takeover with <a href="https://www.instagram.com/p/Bl3mGqCAIJx/?taken-by=harpercollinsus">Leah Franqui</a>.
