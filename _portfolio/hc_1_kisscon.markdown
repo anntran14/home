@@ -16,7 +16,7 @@ Marketing has a lot of pieces, and one that I worked with was building promotion
 
 The [earlier KissCon site](https://info.harpercollins.com/avonkisscon/) is dense with text and is visually inconsistent in color and centering.
 
-<div class="img_row_2">
+<div class="imag_row">
 	<img class="col one" src="../../img/kisscon/kisscon-old1.jpg" alt="" />
 	<img class="col one" src="../../img/kisscon/kisscon-old2.jpg" object-fit = "fill" alt="" />
 	<img class="col one" src="../../img/kisscon/kisscon-old3.jpg" alt="" /> 
