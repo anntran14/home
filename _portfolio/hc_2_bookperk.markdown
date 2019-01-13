@@ -1,7 +1,7 @@
 ---
 layout: post
-title: HarperCollins Bookperk
-description: Microsite and Newsletter Redesign
+title: Bookperk
+description: Microsite / Newsletter Redesign
 img: ../img/icons/logo-upd.jpg
 ---
 
