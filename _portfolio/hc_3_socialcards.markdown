@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HarperCollins Social Cards
+title: HC Social Cards
 description: Book Social Media Promotion
 img: ../img/icons/famous-2.jpg
 ---
