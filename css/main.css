@@ -80,7 +80,8 @@ a {
       color: darken($brand-color, 15%); 
   }
   */ }
-  a:hover {
+  a:
+{
     color: #e2a69a;
     text-decoration: none; }
 
@@ -344,7 +345,6 @@ pre {
   float: left;
   position: relative;
   width: 100%;
-  height: 233px;
  }
 
 .thumbnail a span {
