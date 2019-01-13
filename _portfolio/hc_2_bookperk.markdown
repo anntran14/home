@@ -14,8 +14,8 @@ Marketing has a lot of pieces, and one that I worked with was building promotion
 <br/> Bookperk is a promotional e-book newsletter that shares e-book deals, handpicked recommendations, and updates from HarperCollins authors. The [earlier Bookperk site](http://www.bookperk.com/) has cropped graphics, an intense color palette, and and a background booksplash that feels vaguely outdated. The Bookperk team wanted something that clarified what the company was and directed the users to a call-to-action.  
 
 <div class="imag_row">
-	<img class="col one-alt" style="height:370px;" src="../../img/bookperk/landingpage.jpg" alt=""/>
-	<img class="col one-alt" style="height:370px;" src="../../img/bookperk/letter.png" object-fit = "fill" alt="" />
+	<img class="col one-alt" src="../../img/bookperk/landingpage.jpg" alt=""/>
+	<img class="col one-alt" src="../../img/bookperk/letter.png" object-fit = "fill" alt="" />
 </div>
 <div class="col three caption">
 On the left, the original Bookperk microsite. On the right, the original Bookperk newsletter.
