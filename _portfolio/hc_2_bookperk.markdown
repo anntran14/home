@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bookperk
+title: HC Bookperk
 description: Microsite / Newsletter Redesign
 img: ../img/icons/logo-upd.jpg
 ---
