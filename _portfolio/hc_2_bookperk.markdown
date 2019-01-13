@@ -37,7 +37,7 @@ The Bookperk team requested two options. On the left, this design would incorpor
 # prototype and release
 <br/> As a final step, to demonstrate what the site and newsletter may look like, I stylized both options.
 
-<div class="img_row">
+<div class="imag_row">
 	<img class="col three" style="height:350px;" src="../../img/bookperk/booksplash.jpg" alt="" />
 </div>
 <div class="col three caption">
