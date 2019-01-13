@@ -25,8 +25,8 @@ On the left, the original Bookperk microsite. On the right, the original Bookper
 <br/> Unfortunately, the tight timeline limited design exploration. However, the team was very happy with the two similar options. From here, I would build two prototypes: one more classic and literary, and one more clean and simple. 
 
 <div class="imag_row">
-	<img class="col one-alt" style="height:380px;" src="../../img/bookperk/1-timeless.jpg" alt="" />
-	<img class="col one-alt" style="height:380px;" src="../../img/bookperk/2-modern.jpg" object-fit = "fill" alt="" />
+	<img class="col one-alt" src="../../img/bookperk/1-timeless.jpg" alt="" />
+	<img class="col one-alt" src="../../img/bookperk/2-modern.jpg" object-fit = "fill" alt="" />
 </div>
 <div class="col three caption">
 The Bookperk team requested two options. On the left, this design would incorporate classic elements and shapes with a clean modern backdrop. The option on the right contains less text, and would have more visual cues. 
@@ -38,15 +38,15 @@ The Bookperk team requested two options. On the left, this design would incorpor
 <br/> As a final step, to demonstrate what the site and newsletter may look like, I stylized both options.
 
 <div class="imag_row">
-	<img class="col three" style="height:350px;" src="../../img/bookperk/booksplash.jpg" alt="" />
+	<img class="col three" src="../../img/bookperk/booksplash.jpg" alt="" />
 </div>
 <div class="col three caption">
 I redesigned the booksplash to bring some freshness to the page. The staggered covers are more dynamic and the larger jackets display the diversity of books available through Bookperk. </div>
 
 
 <div class="imag_row">
-	<img class="col one-alt" style="height:440px;" src="../../img/bookperk/landingpage-classic.jpg" alt="" />
-	<img class="col one-alt" style="height:440px;" src="../../img/bookperk/landingpage-modern.jpg" alt="" />
+	<img class="col one-alt" src="../../img/bookperk/landingpage-classic.jpg" alt="" />
+	<img class="col one-alt" src="../../img/bookperk/landingpage-modern.jpg" alt="" />
 </div>
 <div class="col three caption">
 On the left, the landing page with a classic, more literary approach. On the right, the modern, simple option. </div>
