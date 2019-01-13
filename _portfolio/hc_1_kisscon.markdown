@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HC KissCon
-description: Microsite Redesign
+description: Redesign
 img: ../img/icons/bokeh.jpg
 ---
 
