@@ -7,7 +7,7 @@ img: ../img/icons/Extraction.jpg
 
 # overview
 <br/> This is a sample of the studio art I have made. 
-<div class="img_row_4">
+<div class="imag_row">
 	<img class="col three" src="../../img/studio/King_Frog.jpg" alt=""/>
 </div>
 <div class="col three caption">
@@ -25,7 +25,7 @@ img: ../img/icons/Extraction.jpg
 <div class="col three caption">
 <i>Arboreal - Self Portrait</i> 2014 - acrylic.</div>
 
-<div class="img_row_4">
+<div class="imag_row">
 	<img class="col three" src="../../img/studio/Bloom.jpg" alt="" />
 </div>
 <div class="col three caption">
