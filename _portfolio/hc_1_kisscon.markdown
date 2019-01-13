@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HarperCollins KissCon
+title: HC KissCon
 description: Microsite Redesign
 img: ../img/icons/bokeh.jpg
 ---
