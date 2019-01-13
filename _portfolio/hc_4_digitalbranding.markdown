@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HC Other Work
-description: Digital Branding
+description: 
 img: ../img/icons/collins.jpg
 ---
 
