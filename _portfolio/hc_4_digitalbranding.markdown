@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HarperCollins Other Work
+title: HC Other Work
 description: Digital Branding
 img: ../img/icons/collins.jpg
 ---
