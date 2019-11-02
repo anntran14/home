@@ -11,7 +11,6 @@ img: ../img/icons/famous-2.jpg
 During my time at HarperCollins Publishers, I developed social cards for Instagram Takeovers, which is when authors temporarily have control over sharing content on the HarperCollins Instagram handle with +180,000 followers, and monthly book club updates. The cards would appear on the Instagram, Facebook, and Twitter accounts. 
 <br/>
 
-## instagram takeovers
 <div class="imag_row">
 	<img class="col four" src="../../img/social/cards/10minute-1.jpg" alt="" />
 	<img class="col four" src="../../img/social/cards/10minute-2.jpg" alt="" />
@@ -84,7 +83,6 @@ During my time at HarperCollins Publishers, I developed social cards for Instagr
 	Instagram takeover with <a href="https://www.instagram.com/p/Bl3mGqCAIJx/?taken-by=harpercollinsus">Leah Franqui</a>.
 </div>
 
-## monthly social shares
 <div class="imag_row">
 	<img class="col one-alt" src="../../img/social/cards/bookclub-july.jpg" alt="" />
 	<img class="col one-alt" src="../../img/social/cards/bookclub-august.jpg" alt=""/>
