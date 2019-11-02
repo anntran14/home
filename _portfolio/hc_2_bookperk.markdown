@@ -6,11 +6,15 @@ img: ../img/icons/logo-upd.jpg
 ---
 
 # overview
+
+
 <br/> If books are the heart of publishing, marketing is the blood. Marketing circulates books into the hands of buyers, distributers, and other channels. 
 
 Marketing has a lot of pieces, and one that I worked with was building promotional web tools. Microsites, which are more simplistic and easy to navigate than a general website, are used to highlight giveaways or target specific buyer audiences. Newsletters will regularly communicate with the buyer, so it is important they are uncluttered and focused. <br/>
 
 # design analysis 
+
+
 <br/> Bookperk is a promotional e-book newsletter that shares e-book deals, handpicked recommendations, and updates from HarperCollins authors. The [earlier Bookperk site](http://www.bookperk.com/) has cropped graphics, an intense color palette, and and a background booksplash that feels vaguely outdated. The Bookperk team wanted something that clarified what the company was and directed the users to a call-to-action.  
 
 <div class="imag_row">
@@ -22,6 +26,8 @@ On the left, the original Bookperk microsite. On the right, the original Bookper
 </div><br/>
 
 # mockup journal 
+
+
 <br/> Unfortunately, the tight timeline limited design exploration. However, the team was very happy with the two similar options. From here, I would build two prototypes: one more classic and literary, and one more clean and simple. 
 
 <div class="imag_row">
@@ -35,6 +41,8 @@ The Bookperk team requested two options. On the left, this design would incorpor
 <br/>
 
 # prototype and release
+
+
 <br/> As a final step, to demonstrate what the site and newsletter may look like, I stylized both options.
 
 <div class="imag_row">
