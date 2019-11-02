@@ -2,7 +2,7 @@
 layout: post
 title: Data Visualization
 description: 
-img: ../img/icons/catatonic-closeup.jpg
+img: ../img/icons/cluster.jpg
 ---
 
 # overview
@@ -21,18 +21,18 @@ img: ../img/icons/catatonic-closeup.jpg
 # results
 
 <div class="imag_row">
-	<img class="col three" src="../../img/digital/catatonic.jpg" alt="" />
+	<img class="col three" src="../../img/datavis/1-original.png" alt="" />
 </div>
 <div class="col three caption">
 Visualization of Honor Code network using the k-NN algorithm (k = 8) to link points, the PageRank algorithm to size points, and "Confrontation Type" categorical data to color points. The circled points/clusters are inner clusters identified by pageRank. </div>
 
 <div class="imag_row">
-	<img class="col three" src="../../img/digital/catatonic.jpg" alt="" />
+	<img class="col three" src="../../img/datavis/2-texture.png" alt="" />
 </div>
 <div class="col three caption">Visualization of Honor Code network using the k-NN algorithm (k = 8) to link points. Point colors are based on "Confrontation Type" and point textures are based on only two Trial Types. Otherwise, points are not textured. </div>
 
 <div class="imag_row">
-	<img class="col three" src="../../img/digital/catatonic.jpg" alt="" />
+	<img class="col three" src="../../img/datavis/3-noconfrontationtype.png" alt="" />
 </div>
 <div class="col three caption">
 Visualization of Honor Code network with “Confrontation Type” attribute removed. It uses the k-NN algorithm (k = 8) to link points, the PageRank algorithm to size points, and "Confrontation Type" categorical data to color points. </div>
