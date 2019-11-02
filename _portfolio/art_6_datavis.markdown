@@ -16,7 +16,22 @@ img: ../img/icons/catatonic-closeup.jpg
 3. Finally, I wanted to see if the data set still clustered by Confrontation Type when the attribute was removed. I hypothesized that in the new network, points of the same Confrontation Type would still cluster more closely together, and that there would be certain clusters of points with higher PageRank like in the original network. I also expected that points originally in the center of the graph would now either link more closely to a cluster’s center, since Confrontation Type may have been a dividing factor, or stretch far away from other cases if they were outliers.
 
 # results
+<div class="imag_row">
+	<img class="col three" src="../../img/digital/catatonic.jpg" alt="" />
+</div>
+<div class="col three caption">
+Visualization of Honor Code network using the k-NN algorithm (k = 8) to link points, the PageRank algorithm to size points, and "Confrontation Type" categorical data to color points. The circled points/clusters are inner clusters identified by pageRank. </div>
 
+<div class="imag_row">
+	<img class="col three" src="../../img/digital/catatonic.jpg" alt="" />
+</div>
+<div class="col three caption">Visualization of Honor Code network using the k-NN algorithm (k = 8) to link points. Point colors are based on "Confrontation Type" and point textures are based on only two Trial Types. Otherwise, points are not textured. </div>
+
+<div class="imag_row">
+	<img class="col three" src="../../img/digital/catatonic.jpg" alt="" />
+</div>
+<div class="col three caption">
+Visualization of Honor Code network with “Confrontation Type” attribute removed. It uses the k-NN algorithm (k = 8) to link points, the PageRank algorithm to size points, and "Confrontation Type" categorical data to color points. </div>
 
 # analysis
 We see in both new networks that a case’s attributes rely frequently on its Confrontation Type. In the textured network, the greatest takeaway is that often, Confrontation Type correlates to Trial Type. In the network with Confrontation Type removed, the greatest takeaway is that points of the same Confrontation Type usually contained common variables. Both networks affirm what was suspected, which is that there is a pattern to attributes depending on a trial’s Confrontation Type.
