@@ -10,8 +10,7 @@ img: ../img/icons/cluster.jpg
 
 
 # research and hyothesis
-
-1. I created a network that used the k-nearest neighbors algorithm (k-NN) to connect points, the PageRank algorithm to size points, and "Confrontation Type" categorical data to color points. 
+<br/> 1. I created a network that used the k-nearest neighbors algorithm (k-NN) to connect points, the PageRank algorithm to size points, and "Confrontation Type" categorical data to color points. 
 
 2. From 1., I wanted to explore if Confrontation Type is a deciding factor on other case attributes in order to observe the distinction between academic and social Honor Code trials. I used two different techniques to do so - visualizing case Trial Types with texture, and removing the Confrontation Type in two new network that use the same k-NN (k = 8) to link points.
 
@@ -38,15 +37,13 @@ Visualization of Honor Code network using the k-NN algorithm (k = 8) to link poi
 Visualization of Honor Code network with “Confrontation Type” attribute removed. It uses the k-NN algorithm (k = 8) to link points, the PageRank algorithm to size points, and "Confrontation Type" categorical data to color points. </div>
 
 # analysis
-
-We see in both new networks that a case’s attributes rely frequently on its Confrontation Type. In the textured network, the greatest takeaway is that often, Confrontation Type correlates to Trial Type. In the network with Confrontation Type removed, the greatest takeaway is that points of the same Confrontation Type usually contained common variables. Both networks affirm what was suspected, which is that there is a pattern to attributes depending on a trial’s Confrontation Type.
+<br/> We see in both new networks that a case’s attributes rely frequently on its Confrontation Type. In the textured network, the greatest takeaway is that often, Confrontation Type correlates to Trial Type. In the network with Confrontation Type removed, the greatest takeaway is that points of the same Confrontation Type usually contained common variables. Both networks affirm what was suspected, which is that there is a pattern to attributes depending on a trial’s Confrontation Type.
 
 Both new graphs reinforce that the data set breaks down into two clusters, and these clusters are categories: academic or social Honor Code violations. Furthemore, they also only corroborated the idea that there are common contexts and protocols in those clusters. Sadly, the notion that underlying patterns in the trials exist undermines the hope that Honor Code infractions are anomalies of Haverford’s long-held tradition of principles.
 
 
 # reflection
-
-The data shows that Haverford administration may play a greater role in administering the Honor Code than expected. This goes against the average student’s perception of the Code as a set of social and academic expectations run by, administered by, and agreed upon by students.
+<br/> The data shows that Haverford administration may play a greater role in administering the Honor Code than expected. This goes against the average student’s perception of the Code as a set of social and academic expectations run by, administered by, and agreed upon by students.
 
 To research the role of Confrontation Type as an indicator for trial details, I generated two new networks where points were still linked using k-NN (k = 8). The first network textured points based on the Trial Type they were related to, and the second was generated without the “Confrontation Type” attribute, yet colored according to it. Both networks produced two clusters, one with mainly Confrontation Type (1), and the other with Confrontation Types (2), (4), and (7). The textured network revealed Trial Types as a common attribute to points within a cluster. The network that removed Confrontation Type revealed that when comparing all attributes, points with the same Confrontation Type usually still shared features. This suggests an underlying structure within case protocol and context, which juxtaposes the principles of the Code that say that regardless of either, students are expected to follow the system.
 
