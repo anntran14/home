@@ -45,4 +45,4 @@ To research the role of Confrontation Type as an indicator for trial details, I 
 
 Presenting Code violations to students as visualizations may shed light on the reality of the nature of the Honor Code, where most cases actually rely on administrative leads and all cases link to common features. Recently, a friend of mine was on trial for plagiarizing, and she admitted to me that the Honor Code felt intangible compared to the reality of her grades. I agreed that the Code is viewed in an idyllic light rather than a concrete one, as seen in the email’s self-disciplinary expectation. Essentially, all of my networks show that other students have made mistakes at Haverford College. Visualizing these mistakes may guide students to see the students put on trial, trial repercussions, and the restorative processes for students as concrete and effective.
 
-<a href="http://sunny.freeservers.com/flowers.pdf">You can download the full analysis here.</a>.
+<a href="http://sunny.freeservers.com/flowers.pdf">You can download the full analysis here.</a>
