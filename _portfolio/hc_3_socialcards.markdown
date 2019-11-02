@@ -92,8 +92,6 @@ During my time at HarperCollins Publishers, I developed social cards for Instagr
 </div>
 
 # overview - digital branding
-
-
 <br/> These are additional projects I completed this summer to refresh the digital branding at HarperCollins Publishers. From their authors to their imprints, here are some of my designs. 
 
 <div class="imag_row">
