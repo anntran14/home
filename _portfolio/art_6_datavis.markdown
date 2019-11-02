@@ -8,6 +8,7 @@ img: ../img/icons/catatonic-closeup.jpg
 # overview
 <br/> During Spring 2016, for our final project in CS 207: Data Science and Visualization, my team analyzed a data set of Haverford College Honor Code violations dating from Spring 1993. Categorical data included “Release Semester and Date”, “Confrontation Type”, and “Type of Trial”. We were asked to investigate the data set and explore any patterns in the trials. For example, if there were any case attributes that were surprising indicators of others. These analyses would be presented to the College’s 1,500-person student population. It would encourage students to self-reflect on the perceived versus actual role of the Honor Code.
 
+
 # research and hyothesis
 
 1. I created a network that used the k-nearest neighbors algorithm (k-NN) to connect points, the PageRank algorithm to size points, and "Confrontation Type" categorical data to color points. 
@@ -15,6 +16,7 @@ img: ../img/icons/catatonic-closeup.jpg
 2. From 1., I wanted to explore if Confrontation Type is a deciding factor on other case attributes in order to observe the distinction between academic and social Honor Code trials. I used two different techniques to do so - visualizing case Trial Types with texture, and removing the Confrontation Type in two new network that use the same k-NN (k = 8) to link points.
 
 3. Finally, I wanted to see if the data set still clustered by Confrontation Type when the attribute was removed. I hypothesized that in the new network, points of the same Confrontation Type would still cluster more closely together, and that there would be certain clusters of points with higher PageRank like in the original network. I also expected that points originally in the center of the graph would now either link more closely to a cluster’s center, since Confrontation Type may have been a dividing factor, or stretch far away from other cases if they were outliers.
+
 
 # results
 
@@ -40,6 +42,7 @@ Visualization of Honor Code network with “Confrontation Type” attribute remo
 We see in both new networks that a case’s attributes rely frequently on its Confrontation Type. In the textured network, the greatest takeaway is that often, Confrontation Type correlates to Trial Type. In the network with Confrontation Type removed, the greatest takeaway is that points of the same Confrontation Type usually contained common variables. Both networks affirm what was suspected, which is that there is a pattern to attributes depending on a trial’s Confrontation Type.
 
 Both new graphs reinforce that the data set breaks down into two clusters, and these clusters are categories: academic or social Honor Code violations. Furthemore, they also only corroborated the idea that there are common contexts and protocols in those clusters. Sadly, the notion that underlying patterns in the trials exist undermines the hope that Honor Code infractions are anomalies of Haverford’s long-held tradition of principles.
+
 
 # reflection
 
