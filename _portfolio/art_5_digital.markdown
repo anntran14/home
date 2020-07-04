@@ -10,6 +10,12 @@ img: ../img/icons/catatonic-closeup.jpg
 
 
 <div class="imag_row">
+	<img class="col three" src="../../img/digital/taehyung.jpg" alt="" />
+</div>
+<div class="col three caption">
+<i>Taehyung</i> - 2020 - ProCreate. </div>
+
+<div class="imag_row">
 	<img class="col three" src="../../img/digital/catatonic.jpg" alt="" />
 </div>
 <div class="col three caption">
