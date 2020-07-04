@@ -8,6 +8,12 @@ img: ../img/icons/Extraction.jpg
 # overview
 <br/> This is a sample of the studio art I have made. 
 <div class="imag_row">
+	<img class="col three" src="../../img/studio/sonia.jpg" alt=""/>
+</div>
+<div class="col three caption">
+<i>Sonia</i> - 2020 - gouache. </div>
+
+<div class="imag_row">
 	<img class="col three" src="../../img/studio/King_Frog.jpg" alt=""/>
 </div>
 <div class="col three caption">
